@@ -19,3 +19,14 @@
 | A549 | H3K36me3	| wgEncodeBroadHistoneA549H3k36me3Dex100nmAlnRep1.bam	| H3k36me3.bam
 | A549 | H3K79me2	| wgEncodeBroadHistoneA549H3k79me2Dex100nmAlnRep1.bam	| H3k79me2.bam
 | A549 | H3K09me3	| wgEncodeBroadHistoneA549H3k09me3Etoh02AlnRep1.bam	| H3k09me3.bam
+
+## ChromHMM
+
+|       Overlap      | Emissions | Transitions |
+| ----------- | ----------------- | ----------------- |
+| ![img1](https://github.com/ruct/hse_hw3_chromhmm/blob/master/data/A549_10_overlap.png) | ![img2](https://github.com/ruct/hse_hw3_chromhmm/blob/master/data/emissions_10.png) | ![img3](https://github.com/ruct/hse_hw3_chromhmm/blob/master/data/transitions_10.png) |
+
+|       RefSeqTES_neighborhood      | RefSeqTSS_neighborhood |
+| ----------- | ----------------- |
+| ![img4](https://github.com/ruct/hse_hw3_chromhmm/blob/master/data/A549_10_RefSeqTES_neighborhood.png) | ![img5](https://github.com/ruct/hse_hw3_chromhmm/blob/master/data/A549_10_RefSeqTSS_neighborhood.png) |
+
