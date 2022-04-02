@@ -30,3 +30,22 @@
 | ----------- | ----------------- |
 | ![img4](https://github.com/ruct/hse_hw3_chromhmm/blob/master/data/A549_10_RefSeqTES_neighborhood.png) | ![img5](https://github.com/ruct/hse_hw3_chromhmm/blob/master/data/A549_10_RefSeqTSS_neighborhood.png) |
 
+## Epigenetic states
+
+![img6](https://github.com/ruct/hse_hw3_chromhmm/blob/master/data/states.png)
+![img7](https://github.com/ruct/hse_hw3_chromhmm/blob/master/data/browsed.png)
+
+По позициям состояний сделали выводы об их значениях:
+| State | Название | Значение |
+| ---- | ---- | ---- |
+| 1 | Promoter | Промоутер активный |
+| 2 | Weak promoter | Промоутер слабый |
+| 3 | Transcribed start | Начало транскрибирующегося генома |
+| 4 | Intron | Интрон в активном гене |
+| 5 | Transcribed | Активный ген |
+| 6 | Transcribed | Активный ген |
+| 7 | Transcribed end | Конец активного генома |
+| 8 | Repressed | Репрессированный хроматин |
+| 9 | Heterochromatin | Межгенное пространство |
+| 10 | Heterochromatin | Репрессированный хроматин, межгенное пространство |
+
